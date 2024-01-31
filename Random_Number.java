@@ -25,8 +25,5 @@ public class Random_Number {
                 System.out.println("Try again! The number is smaller than " + userGuess);
             }
         }
-
-        // Close the scanner
-        scanner.close();
-	}
+   }
 }
