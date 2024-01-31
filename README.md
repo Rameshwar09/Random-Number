@@ -1,1 +1,2 @@
 # Random-Number
+This is a random number guessing game generates a random number within a set range, prompting the player to guess the correct value. The game provides feedback after each guess and continues until the player correctly identifies the random number. Designed for simplicity, this code is ideal for Java beginners and serves as a basic example of user input, random number generation, and control flow in Java.
