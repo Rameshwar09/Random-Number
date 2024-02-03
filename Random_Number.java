@@ -15,7 +15,7 @@ public class Random_Number {
             // Read the user's guess
             int userGuess = scanner.nextInt();
 
-            // Check if the guess is correct
+            // Check if the guess is correct or lessthan or greterthan
             if (userGuess == targetNumber) {
                 System.out.println("Congratulations! You guessed the correct number: " + targetNumber);
                 break;
