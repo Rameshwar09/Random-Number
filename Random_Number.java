@@ -12,7 +12,7 @@ public class Random_Number {
         Scanner scanner = new Scanner(System.in);
 
         while (true) {
-            // Read the user's guess
+            // Read the user's guess number
             int userGuess = scanner.nextInt();
 
             // Check if the guess is correct or lessthan or greterthan
